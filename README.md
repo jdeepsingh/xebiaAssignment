@@ -13,9 +13,14 @@ Steps to run the application:-
 5) Open .xcworkspace file and run the application.
 
 Object oriented programming approach
+
 • I have used autolayout to get generic UI and used MVVM design pattern to implement the functionality
+
 • Unit tests using XCTest :- just added a test case as example to create or run other test cases
+
 • Some UI tests using XCUITest :- just added a UI test case as example to create or run other UI  test cases
+
 • Swift is used to develop this application.
+
 
 
